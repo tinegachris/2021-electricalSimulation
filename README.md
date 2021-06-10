@@ -11,7 +11,7 @@ _Contributor(s): [Chrispine Tinega](https://github.com/tinegachris)_
    * Proteus
    * Multisim
    * Working with microcontrollers
-## Proteus
+## Simulate Using Proteus
 
     
 
