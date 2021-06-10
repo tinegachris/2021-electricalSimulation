@@ -10,8 +10,11 @@ _Contributor(s): [Chrispine Tinega](https://github.com/tinegachris)_
 ## Scope
    * Proteus
    * Multisim
-   * Working with microcontrollers
+   * Working with microcontrollers - Arduino
 ## Simulate Using Proteus
+_Disclaimer: I will be using [Proteus Design Suite 8.9](https://www.labcenter.com/) for this tutorial_
+
+### The Home Page
 
     
 
