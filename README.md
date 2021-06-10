@@ -3,6 +3,15 @@ This is Electrical Simulation for ses projects weekly meetings during the academ
 
 _Contributor(s): [Chrispine Tinega](https://github.com/tinegachris)_
 
-![alt text]()
-         
+![alt text](https://github.com/JKUATSES/2021-electricalSimulation/blob/main/Electrical%20Simulation.png)
+
+## Objective
+   - Bridge the gap between industry and academia by helping students buid the right skills.
+## Scope
+   * Proteus
+   * Multisim
+   * Working with microcontrollers
+## Proteus
+
+    
 
