@@ -1,7 +1,15 @@
-# 2021-ElectricalSimulation
-This is Electrical Simulation for SES projects weekly meetings during the academic year 2021-2022
+[![GitHub license](https://img.shields.io/github/license/JKUATSES/2021-electricalSimulation.svg)](https://github.com/JKUATSES/2021-electricalSimulation/blob/main/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/JKUATSES/2021-electricalSimulation.svg)](https://github.com/JKUATSES/2021-electricalSimulation/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/JKUATSES/2021-electricalSimulation.svg)](https://github.com/JKUATSES/2021-electricalSimulation/issues)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/JKUATSES/2021-electricalSimulation.svg)](https://github.com/JKUATSES/2021-electricalSimulation/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-_Contributor(s): [Chrispine Tinega](https://github.com/tinegachris)_
+[![GitHub watchers](https://img.shields.io/github/watchers/JKUATSES/2021-electricalSimulation.svg?style=social&label=Watch)](https://github.com/JKUATSES/2021-electricalSimulation/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/JKUATSES/2021-electricalSimulation.svg?style=social&label=Fork)](https://github.com/JKUATSES/2021-electricalSimulation/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/JKUATSES/2021-electricalSimulation.svg?style=social&label=Sta)](https://github.com/JKUATSES/2021-electricalSimulation/stargazers)
+
+# 2021-ElectricalSimulation
+This is a tutorial of Electrical Simulation for SES Projects weekly meetings during the academic year 2021-2022
 
 ![alt text](https://github.com/JKUATSES/2021-electricalSimulation/blob/main/Electrical%20Simulation.png)
 
