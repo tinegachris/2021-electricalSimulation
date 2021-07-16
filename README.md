@@ -9,36 +9,25 @@
 [![GitHub stars](https://img.shields.io/github/stars/JKUATSES/2021-electricalSimulation.svg?style=social&label=Sta)](https://github.com/JKUATSES/2021-electricalSimulation/stargazers)
 
 # 2021-ElectricalSimulation
-This is a tutorial of Electrical Simulation for SES Projects weekly meetings during the academic year 2021-2022
+This is a tutorial of Electrical Simulation for SES Projects weekly meetings during the academic year 2021-2022.
 
 ![alt text](https://github.com/JKUATSES/2021-electricalSimulation/blob/main/Electrical%20Simulation.png)
+> Project cover photo by [Chrispine Tinega](https://github.com/tinegachris).
+
+**Thanks to the authors [Chrispine Tinega](https://github.com/tineachris), [Rodney Osodo](https://github.com/0x6f736f646f) and the [JKUAT Society of Engineering Students (SES) Projects Committee](https://github.com/jkuatses).**
 
 ## Objective
-   - Bridge the gap between industry and academia by helping students buid the right skills.
+   Introduce electrical simulation knowledge to learners and enthusiasts to bridge the gap between industry and academia and better prepare them for future projects. 
 ## Scope
    * Proteus
+       ![proteus](https://user-images.githubusercontent.com/72353423/125945707-75b687d4-656e-43cf-a11b-6c4a0ca857e1.jpg)
+
    * Multisim
-   * Working with microcontrollers - Arduino
-## Simulate Using Proteus
-_Disclaimer: I will be using [Proteus Design Suite 8.9](https://www.labcenter.com/) for this tutorial_
+       ![multisim](https://user-images.githubusercontent.com/72353423/125946744-e03a7728-e6a9-4d46-86eb-872594cfb5da.jpg)
 
-### The Home Page
-Get started with a project and perfom some system task.
+   * Working with microcontrollers - 
+   * Arduino
+       ![Arduino](https://user-images.githubusercontent.com/72353423/125946364-75f2b6d1-0e29-4aba-b667-bcf802575b27.png)
 
-![Proteus Home Page](https://user-images.githubusercontent.com/72353423/121546077-b3859e80-ca13-11eb-9b52-b5e459477446.png)
-
-On the start panel, you can create new project, open a project and browse and open the sample projects from the design libraries.
-
-![Start panel](https://user-images.githubusercontent.com/72353423/121545840-8933e100-ca13-11eb-808a-444beb12de60.png)
-
-### Creating New Projects
-
-![image](https://user-images.githubusercontent.com/72353423/121546495-00697500-ca14-11eb-8b30-94fd75779db4.png)
-
-Clicking on the wizard guides you to the start page where you can specify the project name and destination directory.
-
-![image](https://user-images.githubusercontent.com/72353423/121547333-b9c84a80-ca14-11eb-88c4-06ee48f23578.png)
-
-#### Schematic
 
 
