@@ -27,6 +27,7 @@ This is a tutorial of Electrical Simulation for SES Projects weekly meetings dur
 
    * Working with microcontrollers - Arduino
         >![Arduino](https://user-images.githubusercontent.com/72353423/125946364-75f2b6d1-0e29-4aba-b667-bcf802575b27.png)
-
+## Presentation
+> The presentation slides used on the SES Projects meeting on Thurday, 22 July 2021 was uploaded - check out.
 
 
