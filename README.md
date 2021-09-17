@@ -30,4 +30,7 @@ This is a tutorial of Electrical Simulation for SES Projects weekly meetings dur
 ## Presentation
 > The presentation slides used on the SES Projects meeting on Thurday, 22 July 2021 was uploaded - check out.
 
+## Podcast
+> Listen to the podcast recorded prior to this presentation on [Anchor](https://anchor.fm/jkuatses/episodes/Projects---Electrical-Simulation-episode-12-e15625n)
+
 
